@@ -7,7 +7,13 @@
 "city": "清远",
 "birthday1": "r2003-03-02",
 "birthday2": "1999-02-15",
-"love_date": "2021-11-27",
-"Whether_caihongpi":"7c17a8b07c89f7cc2f615667a9dce90c",
-"tianqi_API":"7c17a8b07c89f7cc2f615667a9dce90c"
+"love_date": "2021-11-27", 
+"Whether_Eng": "",
+"Whether_caihongpi": "7c17a8b07c89f7cc2f615667a9dce90c",
+"Whether_lizhi": false,
+"Whether_tip": false,
+"Whether_health": false,
+"Whether_lucky": false,
+"tianxing_API": "7c17a8b07c89f7cc2f615667a9dce90c",
+"astro": ""
 }
