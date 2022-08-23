@@ -1,4 +1,4 @@
-name: time-push
+name: Weixin
 on:
   workflow_dispatch:
   schedule: 
